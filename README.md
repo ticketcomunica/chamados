@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/orgs/ticketcomunica/projects/2">
+        <img src="https://img.shields.io/badge/Project-Board-orange.svg?style=for-the-badge"
+             alt="Project Board" /></a>
+</p>
+
+<p align="center">
     <a href="https://github.com/ticketcomunica/ticket/issues">
         <img src="https://img.shields.io/github/issues/ticketcomunica/chamados.svg?style=for-the-badge"
              alt="Issues" /></a>
