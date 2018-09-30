@@ -10,10 +10,10 @@
         <img src="https://img.shields.io/badge/programa-v1.0-red.svg?longCache=true&style=for-the-badge"
              alt="Programa" /></a>
 </p>
- 
+
 <p align="center">
     <a href="https://github.com/ticketcomunica/ticket/issues">
-        <img src="https://img.shields.io/github/issues/ticketcomunica/ticket.svg?style=for-the-badge"
+        <img src="https://img.shields.io/github/issues/ticketcomunica/chamados.svg?style=for-the-badge"
              alt="Issues" /></a>
 </p>
 
